@@ -1,0 +1,36 @@
+.section1
+{
+   
+    
+    
+}
+#header{
+background-image: url("../images/learn_code.png");
+height: 250px;
+background-repeat: repeat;
+background-position: center; 
+   
+}
+span{
+    color: hotpink;
+    padding-left: 15px;
+    border-bottom: 3px solid red;
+    border-left: 3px solid red;
+}
+.container{
+display: block;
+align-content: center;
+padding: 20px;
+margin: 20px;
+border-style: double;
+color: #2b3574;
+border-width: 10px;
+background-color: #faced3;
+width: 800px;
+}
+#mainsection{
+    background-color: #faced3
+}
+h1{
+   color: #2b3574;
+}
